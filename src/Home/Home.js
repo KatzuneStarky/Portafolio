@@ -111,7 +111,7 @@ function Home() {
                         </div>
                         <div className="home-img">
                             <div className="img-box">
-                                <img src={bg} alt="" />
+                                <img src="https://i.pinimg.com/originals/19/b8/d6/19b8d6e9b13eef23ec9c746968bb88b1.jpg" alt="" />
                             </div>
                         </div>
                     </div>

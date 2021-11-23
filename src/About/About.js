@@ -16,11 +16,15 @@ function About() {
                 <div className="row">
                     <div className="about-img">
                         <div className="img-box">
-                            <img src={bg} />
+                            <img src="https://i.pinimg.com/originals/19/b8/d6/19b8d6e9b13eef23ec9c746968bb88b1.jpg" />
                         </div>
                     </div>
                     <div className="about-text">
-                        <p>lorem</p>
+                        <p>
+                            Que tal, soy Adán Enrique Ramirez Cisneros un Ingeniero en Desarrollo de Software
+                            al cual le gusta aprender nuevas tecnologias en el area del software, tengo aficion por
+                            la programacion web
+                        </p>
                         <h3>Habilidades</h3>
                         <div className="skills">
                             <div className="skill-item">HTML</div>
@@ -40,7 +44,7 @@ function About() {
 
                         <Education />
                         <Experience />
-                        <a href="" target="_blank" className="btn">Descargar mi CV</a>
+                        <a href="https://drive.google.com/file/d/1ChN4-2eO1dyNATwwsp7FdTOwOEp7xQy4/view?usp=sharing" target="_blank" className="btn">Descargar mi CV</a>
                         <a href="#contact" className="btn link-item">Contacta me</a>
                     </div>                    
                 </div>
