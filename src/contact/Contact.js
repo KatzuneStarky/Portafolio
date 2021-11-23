@@ -46,10 +46,10 @@ function Contact() {
                         <div className="contact-info-item">
                             <h3>Sigueme en</h3>
                             <div className="social-links">
-                                <a href="" target="_blank"> <BsFacebook /> </a>
-                                <a href="" target="_blank"> <AiFillTwitterCircle /> </a>
-                                <a href="" target="_blank"> <BsYoutube /> </a>
-                                <a href="" target="_blank"> <AiFillGithub /> </a>
+                                <a href="https://www.facebook.com/KatzuneStarky/" target="_blank"> <BsFacebook /> </a>
+                                <a href="https://twitter.com/StarkyKatzune" target="_blank"> <AiFillTwitterCircle /> </a>
+                                <a href="https://www.youtube.com/channel/UCwvv1BG3jEZjfKf_23ih7wg" target="_blank"> <BsYoutube /> </a>
+                                <a href="https://github.com/KatzuneStarky" target="_blank"> <AiFillGithub /> </a>
                             </div>
                         </div>
                     </div>
