@@ -33,6 +33,7 @@ function About() {
                             <div className="skill-item">PHP</div>
                             <div className="skill-item">BOOTSTRAP</div>
                             <div className="skill-item">JAVA</div>
+                            <div className="skill-item">C#</div>
                             <div className="skill-item">C++</div>
                             <div className="skill-item">JAVA PARA ANDROID</div>
                         </div>

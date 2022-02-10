@@ -18,6 +18,15 @@ function Experience() {
                         del conjunto.
                     </p>                
                 </div>
+
+                <div className="timeline-item">
+                    <span className="date">2022 — Presente</span>
+                    <h4>Programador junior - <span>Grupo Diaz Alvarez</span></h4>
+                    <p>
+                        Mi trabajo es el desarrollo de aplicaciones con C# como programador junior,
+                        para la empresa Grupo Diaz Alvarez y sus tiendas Checkpoint                   
+                    </p>                
+                </div>
             </div>            
         </div>
     )
