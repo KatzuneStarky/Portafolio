@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portafolio/static/css/main.37ea4314.chunk.css",
-    "main.js": "/Portafolio/static/js/main.ea225137.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.ea225137.chunk.js.map",
+    "main.js": "/Portafolio/static/js/main.3318ab65.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.3318ab65.chunk.js.map",
     "runtime-main.js": "/Portafolio/static/js/runtime-main.0583394b.js",
     "runtime-main.js.map": "/Portafolio/static/js/runtime-main.0583394b.js.map",
     "static/js/2.aae484b3.chunk.js": "/Portafolio/static/js/2.aae484b3.chunk.js",
@@ -15,12 +15,15 @@
     "static/media/bg.f066c5ba.jpg": "/Portafolio/static/media/bg.f066c5ba.jpg",
     "static/media/capturapaginaprofeco.bf30efa5.png": "/Portafolio/static/media/capturapaginaprofeco.bf30efa5.png",
     "static/media/genshinpageThumbnail.e52c0639.png": "/Portafolio/static/media/genshinpageThumbnail.e52c0639.png",
-    "static/media/imgPage2.9718fee2.png": "/Portafolio/static/media/imgPage2.9718fee2.png"
+    "static/media/imgPage2.9718fee2.png": "/Portafolio/static/media/imgPage2.9718fee2.png",
+    "static/media/muestra.2e81e6ce.PNG": "/Portafolio/static/media/muestra.2e81e6ce.PNG",
+    "static/media/noImage.2dc5dd6e.jpg": "/Portafolio/static/media/noImage.2dc5dd6e.jpg",
+    "static/media/recargasApi.0dce79aa.PNG": "/Portafolio/static/media/recargasApi.0dce79aa.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.0583394b.js",
     "static/js/2.aae484b3.chunk.js",
     "static/css/main.37ea4314.chunk.css",
-    "static/js/main.ea225137.chunk.js"
+    "static/js/main.3318ab65.chunk.js"
   ]
 }
