@@ -3,6 +3,9 @@ import './portfolio.css'
 import project1 from '../images/genshinpageThumbnail.png';
 import project2 from '../images/imgPage2.png';
 import project3 from '../images/capturapaginaprofeco.png';
+import project4 from '../images/recargasApi.PNG'
+import project5 from  '../images/muestra.PNG';
+import noImage from '../images/noImage.jpg'
 
 function Portfolio() {
     return (
@@ -89,6 +92,79 @@ function Portfolio() {
                                     <li>Tecnologias usadas - <span>PHP, Css, JavaScript, Bootstrap 4, MySql</span></li>
                                     <li>Rol - <span>Backend / Frontend</span></li>
                                     <li>Ver resultado - <span><a href="http://profeco.infinityfreeapp.com" target="_blank">http://profeco.infinityfreeapp.com</a></span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="portfolio-item">
+                        <div className="portfolio-item-thumbnail">
+                            <img src={project4} />
+                        </div>
+                        <h3 className="portfolio-item-title">Caliventa - Sistemas de Recargas con API Rest</h3>
+                        <button type="button" className="btn view-project-btn">Ver proyecto</button>
+                        <div className="portfolio-item-details">
+                            <div className="description">
+                                <p>
+                                    Implementacion de sistema de recargas telefonicas y pago de servicios
+                                    con API Rest en C# para el sistema caliventa de las tiendas CheckPoint   
+                                </p>
+                            </div>
+                            <div className="general-info">
+                                <ul>
+                                    <li>En desarrollo<span></span></li>
+                                    <li>Tecnologias usadas - <span>C#, XAML, Api Rest, .Net, PostgresSQL, Dbeaver</span></li>
+                                    <li>Rol - <span>Backend / Frontend</span></li>
+                                    <li>Ver codigo <span><a href="https://github.com/KatzuneStarky/RecargasApiRest.git" target="_blank">https://github.com/KatzuneStarky/RecargasApiRest.git</a></span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="portfolio-item">
+                        <div className="portfolio-item-thumbnail">
+                            <img src={project5} />
+                        </div>
+                        <h3 className="portfolio-item-title">Samiithedarki Art Website</h3>
+                        <button type="button" className="btn view-project-btn">Ver proyecto</button>
+                        <div className="portfolio-item-details">
+                            <div className="description">
+                                <p>
+                                    Pagina para la muestra y venta de arte de la artista Samiithedarki 
+                                    la cual se podra contactar desde dicha pagina.
+                                    Artista 2D digital y tradicional
+                                </p>
+                            </div>
+                            <div className="general-info">
+                                <ul>
+                                    <li>En desarrollo<span></span></li>
+                                    <li>Tecnologias usadas - <span>Reactjs</span></li>
+                                    <li>Rol - <span>Backend / Frontend</span></li>
+                                    <li>Ver resultado - <span><a href="" target="_blank">Aun en desarrollo</a></span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="portfolio-item">
+                        <div className="portfolio-item-thumbnail">
+                            <img src={noImage} />
+                        </div>
+                        <h3 className="portfolio-item-title">ArtWebsite - En Desarrollo</h3>
+                        <button type="button" className="btn view-project-btn">Ver proyecto</button>
+                        <div className="portfolio-item-details">
+                            <div className="description">
+                                <p>
+                                    Pagina para la presentacion de trabajos artisticos de un amigo
+                                    el cual se dedica al arte 2D en digital y el arte 3D en blender                                    
+                                </p>
+                            </div>
+                            <div className="general-info">
+                                <ul>
+                                    <li>En Desarrollo<span></span></li>
+                                    <li>Tecnologias usadas - <span>React js</span></li>
+                                    <li>Rol - <span>Backend / Frontend</span></li>
+                                    <li>Ver resultado - <span><a href="" target="_blank">Aun en desarrollo</a></span></li>
                                 </ul>
                             </div>
                         </div>
